@@ -1,4 +1,4 @@
-# zallery — OME-Zarr Image Gallery
+# Zallery — OME-Zarr Image Gallery
 
 A configurable, React-based web gallery for browsing OME-Zarr bioimage datasets driven by a CSV metadata file.  
 Built to serve the [SSBD database](https://ssbd.riken.jp/) but designed to be reused with any OME-Zarr collection.

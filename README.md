@@ -151,7 +151,7 @@ The production bundle is written to `gallery/dist/`. Deploy its contents to any 
 
 | Date | Milestone |
 |---|---|
-| 2026-05-01 | Initial development at the **OME Hackathon**, part of [OME Community Meeting 2026](https://www.openmicroscopy.org/events/ome-community-meeting-2026/) |
+| 2026-05-01 | Initial development at the **OME Hackathon**, part of [OME Community Meeting 2026](https://www.openmicroscopy.org/events/ome-community-meeting-2026.html) |
 | 2026-05-03 | Filter system (Dims / Organism / Imaging Method / License), general CSV support, URL state sync |
 
 ## Acknowledgements

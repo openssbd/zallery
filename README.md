@@ -159,6 +159,7 @@ The production bundle is written to `gallery/dist/`. Deploy its contents to any 
 - **[Will Moore](https://github.com/will-moore)** — author of [ome-zarr.js](https://github.com/will-moore/ome-zarr.js), which powers the thumbnail rendering in this gallery.
 - **[BioFile Finder](https://github.com/AllenInstitute/biofile-finder)** (Allen Institute) — an inspiration for the dataset browsing and filtering experience.
 - **[zarrcade](https://github.com/JaneliaSciComp/zarrcade)** (Janelia Research Campus) — an inspiration for the idea of building a lightweight, CSV-driven OME-Zarr gallery.
+- **[Claude](https://claude.ai)** (Anthropic) — AI assistant that helped design and implement the application.
 
 ## License
 

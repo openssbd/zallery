@@ -162,4 +162,4 @@ The production bundle is written to `gallery/dist/`. Deploy its contents to any 
 
 ## License
 
-MIT
+BSD 3-Clause

@@ -1,0 +1,40 @@
+{
+  "name": "zallery",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@deck.gl/core": "~9.1.11",
+    "@deck.gl/extensions": "~9.1.11",
+    "@deck.gl/geo-layers": "~9.1.11",
+    "@deck.gl/layers": "~9.1.11",
+    "@deck.gl/mesh-layers": "~9.1.11",
+    "@deck.gl/react": "~9.1.11",
+    "@deck.gl/widgets": "~9.1.11",
+    "@hms-dbmi/viv": "^0.20.1",
+    "@luma.gl/constants": "~9.1.9",
+    "@luma.gl/core": "~9.1.9",
+    "@luma.gl/engine": "~9.1.9",
+    "@luma.gl/shadertools": "~9.1.9",
+    "@luma.gl/webgl": "~9.1.9",
+    "@vivjs/loaders": "^0.20.1",
+    "ome-zarr.js": "^0.0.19",
+    "papaparse": "^5.4.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.3.14",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.2"
+  }
+}

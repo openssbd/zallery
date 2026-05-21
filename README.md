@@ -1,4 +1,4 @@
-# zallery — OME-Zarr Image Gallery
+# Zallery — OME-Zarr Image Gallery
 
 A configurable, React-based web gallery for browsing OME-Zarr bioimage datasets driven by a CSV metadata file.  
 Built to serve the [SSBD database](https://ssbd.riken.jp/) but designed to be reused with any OME-Zarr collection.
@@ -151,7 +151,7 @@ The production bundle is written to `gallery/dist/`. Deploy its contents to any 
 
 | Date | Milestone |
 |---|---|
-| 2026-05-01 | Initial development at the **OME Hackathon**, part of [OME Community Meeting 2026](https://www.openmicroscopy.org/events/ome-community-meeting-2026/) |
+| 2026-05-01 | Initial development at the **OME Hackathon**, part of [OME Community Meeting 2026](https://www.openmicroscopy.org/events/ome-community-meeting-2026.html) |
 | 2026-05-03 | Filter system (Dims / Organism / Imaging Method / License), general CSV support, URL state sync |
 
 ## Acknowledgements
@@ -162,4 +162,4 @@ The production bundle is written to `gallery/dist/`. Deploy its contents to any 
 
 ## License
 
-MIT
+BSD 3-Clause
